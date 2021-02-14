@@ -4,13 +4,11 @@ install into Rounds/Rounds_Data/Managed and replace the old Assembly-CSharp.dll
 
 64 rounds to win instead of 5 (only works if both people have the mod)
 
-if you both dont have "​" a zero width space like in those quotes the randomness will not start
-
-remove zero width quotes after deleting mod or others can cheat
+if you both dont have "​" a zero width space like in those quotes cards will be random
 
 to have a zero width space copy pate the quotes anywhere of your name and remove the quotes after
 
-if you force a card in the first card picking you disable randomness
+remove zero width quotes after deleting mod or others can cheat
 
 you can change what card you get by forcing another card next time you die
 
