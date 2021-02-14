@@ -12,7 +12,9 @@ you can change what card you get by forcing another card next time you die
 
 to force a card you hold a number (if id greater then 9 then also a letter) before the cards generate
 
-to pick the number in the ones place you just use the number row to pick the number in the tens place you hold a key ranging from Q-Y 10-60
+q-y are 10-60
+
+so if you hold q+1 you get 11 if you hold r+5 yo get 45
 
 # rate.csv
 
