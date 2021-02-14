@@ -6,7 +6,7 @@ install into Rounds/Rounds_Data/Managed and replace the old Assembly-CSharp.dll
 
 if you both dont have "​" a zero width space like in those quotes the randomness will not start
 
-to have a zero width space copy pate the quotes into the begninning of your name and remove the quotes after
+to have a zero width space copy pate the quotes anywhere of your name and remove the quotes after
 
 if you force a card in the first card picking you disable randomness
 
