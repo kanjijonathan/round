@@ -4,6 +4,8 @@ install into Rounds/Rounds_Data/Managed and replace the old Assembly-CSharp.dll
 
 64 rounds to win instead of 5 (only works if both people have the mod)
 
+if you both dont have "​" a zero width space like in those quotes the randomness will not start
+
 if you force a card in the first card picking you disable randomness
 
 you can change what card you get by forcing another card next time you die
