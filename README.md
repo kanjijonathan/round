@@ -1,5 +1,7 @@
 # Assembly-CSharp.dll
 
+install into Rounds/Rounds_Data/Managed and replace the old Assembly-CSharp.dll
+
 64 rounds to win instead of 5
 
 if you force a card in the first card picking you disable randomness
