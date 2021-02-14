@@ -6,6 +6,8 @@ install into Rounds/Rounds_Data/Managed and replace the old Assembly-CSharp.dll
 
 if you both dont have "​" a zero width space like in those quotes the randomness will not start
 
+to have a zero width space copy pate the quotes into the begninning of your name and remove the quotes after
+
 if you force a card in the first card picking you disable randomness
 
 you can change what card you get by forcing another card next time you die
@@ -14,7 +16,11 @@ to force a card you hold a number (if id greater then 9 then also a letter) befo
 
 q-y are 10-60
 
-so if you hold q+1 you get 11 if you hold r+5 yo get 45
+so if you hold q+1 you get 11 so you would get cold bullets
+
+if you hold r+5 yo get 45 so you would get Riccochet
+
+the rest of the numbers are found in rate.csv
 
 # rate.csv
 
