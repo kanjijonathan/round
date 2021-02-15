@@ -4,9 +4,9 @@ install into Rounds/Rounds_Data/Managed
 
 roundsToWinGame = 64
 
-if offline:cards = chosen 
+if offline = choose cards
 
-if both players have "​"(zero width space) in name:cards = chosen
+if both players have "​"(zero width space) in name = choose cards
 
 Q-Y = 10-60
 
