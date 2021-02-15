@@ -1,28 +1,24 @@
 # Assembly-CSharp.dll
 
-install into Rounds/Rounds_Data/Managed and replace the old Assembly-CSharp.dll
+install into Rounds/Rounds_Data/Managed
 
-64 rounds to win instead of 5 (only works if both people have the mod)
+roundsToWinGame = 64
 
-works in local arms race games but if you went online you have to restart because bug to hard for me to figure out
+if offline cards = chosen 
 
-if you both dont have "​" a zero width space like in those quotes cards will be random
+if both players have "​"(zero width space) in name cards = chosen
 
-to have a zero width space copy pate the quotes anywhere of your name and remove the quotes after
+Q-Y = 10-60
 
-remove zero width quotes after deleting mod or others can cheat
+1-9 = 1-9
 
-you can change what card you get by forcing another card next time you die
+hold number and letter to get an id
 
-to force a card you hold a number (if id greater then 9 then also a letter) before the cards generate
+hold 0 you get id 0
 
-q-y are 10-60
+hold y and 4 you get id 64
 
-so if you hold q+1 you get 11 so you would get cold bullets
-
-if you hold r+5 yo get 45 so you would get Riccochet
-
-the rest of the numbers are found in rate.csv
+id list are in rate.csv
 
 # rate.csv
 
