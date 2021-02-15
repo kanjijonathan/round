@@ -4,7 +4,7 @@ install into Rounds/Rounds_Data/Managed
 
 roundsToWinGame = 64
 
-if offline = choose cards
+if offline and not started matchmaking = choose cards
 
 if both players have "​"(zero width space) in name = choose cards
 
