@@ -8,7 +8,7 @@ if offline in arms race and not started matchmaking = choose cards
 
 if both players have "​"(zero width space) in name = choose cards
 
-it will wait till any key is pressed then it will get the id
+it will wait till ANY key is pressed then it will get the id
 
 Q-Y = 10-60
 
