@@ -18,4 +18,4 @@ hold 0 you get id 0
 
 hold y and 4 you get id 64
 
-id list are in rate.csv
+id list are in stat.csv
