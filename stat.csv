@@ -1,3 +1,4 @@
+ID,CARD,RARITY,DECRIPTION,STATS,STATS,STATS,STATS,STATS,STATS,STATS,STATS,STATS,STATS
 0,ABYSSALCOUNTDOWN,Rare,ehhhh, , , , , , , , , ,
 1,BARRAGE,Uncommon,,+4Bullets,+5+Ammo,-70%DMG,+0.25sReloadTime, , , , , ,
 2,BASH,Common,,+ALittleBitOfBulletStun,+0.25sReloadTime, , , , , , , ,
@@ -62,4 +63,4 @@
 61,TIMEDDETONATION,Common,BulletsSpawnBombsThatExplodeAfterHalfASecond,-15%DMG,+0.25sReloadTime, , , , , , , ,
 62,TOXICCLOUD,Rare,BulletsSpawnAPoisonCloudOnImpact,-25%DMG,-20%AttackSpeed,+0.5sReloadTime, , , , , , ,
 63,TRICKSTER,Rare,BulletsDeal80%MoreDMGPerBounce,+2BulletBounces,-20%DMG,+0.5sReloadTime, , , , , , ,
-64,WINDUP,Common,,+100%BulletSpeed,+60%DMG,-100%ATKSPD,+0.25sReloadTime
+64,WINDUP,Common,,+100%BulletSpeed,+60%DMG,-100%ATKSPD,+0.25sReloadTime, , , , , ,
