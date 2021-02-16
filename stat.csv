@@ -38,8 +38,8 @@ ID,CARD,RARITY,DECRIPTION,STATS,STATS,STATS,STATS
 36,OVERPOWER,Uncommon,Deal 25% Of Your Max Hp To Enemies Around You When You Block,+30% HP,+0.25s Block Cooldown, ,
 37,PARASITE,Uncommon,Bullets Deal Damage Over5 Seconds,+50% Life Steal,+30% HP,+25% DMG,+0.25s Reload Time
 38,POISON,Common,Bullets Deal Damage Over3 Seconds,+60% DMG,+0.25s Reload Time, ,
-39,PRISITNEPERSEVERENCE,Rare,,+400%hp When Above90% Hp, , ,
-40,QUICKRELOAD,Uncommon,,-70%RELOADTIME, , ,
+39,PRISITNEPERSEVERENCE,Rare,,+400% hp When Above90% Hp, , ,
+40,QUICKRELOAD,Uncommon,,-70% RELOADTIME, , ,
 41,QUICKSHOT,Common,,+150% Bullet Speed,+0.25s Reload Time, ,
 42,RADARSHOT,Uncommon,Blocking Scans The Area For Enemies. You Automatically Shoot Any Enemy Found,+30% HP,+0.25s Block Cooldown, ,
 43,Refresh,Rare,You Get Block Back When Deal Damage, , , ,
